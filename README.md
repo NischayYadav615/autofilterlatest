@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MOVIE+SEARCH+BOT+!;CREATED+BY+TECHNICAL+CYNITE!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MOVIE+SEARCH+BOT+!;CREATED+BY+ℕ𝕚𝕤𝕔𝕙𝕒𝕪!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
 </p>
 
 </p>
@@ -49,12 +49,12 @@
 
 - [x] /delg - ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀ sᴘᴇᴄɪғɪᴄ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ
 
-## TG Bot [@CyniteBackup](t.me/CyniteBackup)
+## TG Bot [@Nischay](t.me/Nischaybots)
 
 ## Credits 
 
-* [![Kd Bots](https://img.shields.io/static/v1?label=KDBotz&message=Telegram&color=critical)](https://t.me/KD_Botz)
-* [![Contact](https://img.shields.io/static/v1?label=Contact&message=On+Telegram&color=critical)](https://t.me/Cynitesupport)
+* [![𝔼𝕩𝕥𝕣𝕒 𝔹𝕠𝕥𝕤](https://img.shields.io/static/v1?label=ExtraBots&message=Telegram&color=critical)](https://t.me/ExtraBotsUpdates)
+* [![Contact](https://img.shields.io/static/v1?label=Contact&message=On+Telegram&color=critical)](https://t.me/ExtraBotsUpdates)
 
 ## Deploy 
 
