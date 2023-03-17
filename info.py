@@ -48,7 +48,7 @@ SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/ExtraBotsUpdates')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 
 # Custom Chats
-SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', -1001797596826))
+SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', -1001741620245))
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', -1001935392933))
 FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 'https://t.me/fileXdb')
 HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/ExtraBotsUpdates')
